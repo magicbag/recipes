@@ -1,1 +1,1 @@
-# recipes
+Project serves as brief introduction to HTML by setting up small recipe website from scratch.
